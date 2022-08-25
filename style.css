@@ -1,0 +1,55 @@
+body{
+    margin:20%;
+}
+.main-container{
+    background-color:hsl(0deg 36% 18%);
+    width:800px;
+    height:700px;
+    
+}
+
+.poster-image{
+    width: 280px;
+    /* padding:5px; */
+    border-radius: 20px;
+    display: inline-block ;
+    margin-left: 260px;
+    /* margin-right: auto; */
+    margin-top: 80px;
+    /* margin-bottom: auto; */
+    /* width: 50%; */
+}
+h1{
+    text-align: center;
+    margin:3px;
+    color:white;
+}
+.flex{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    color:rgb(192, 184, 184);
+  width:200px;
+  font-size:9px;
+  padding:0;
+  /* margin-left:170px; */
+  margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: 'IBM Plex Serif', serif;
+  /* margin-top:1px; */
+
+    /* text-align: center; */
+}
+.information{
+    width:250px;
+    margin:auto;
+    color:white;
+    font-size:11px;
+    text-align:center;
+    font-family: 'IBM Plex Serif', serif;
+}
+.card{
+    height:700px;
+}

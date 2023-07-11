@@ -1,3 +1,3 @@
-# beastcard-classtask-25-o8
+# beastcard
 
 #APP url:https://effortless-churros-f051ed.netlify.app/
